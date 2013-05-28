@@ -8,3 +8,8 @@ Example usage:
 
 If you want the output in a file:
 	./range2cidr.pl < blocklist.txt > output.txt
+
+Requirements:
+	* Perl
+	* Net::CIDR
+	* List::MoreUtils
