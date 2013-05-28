@@ -1,7 +1,7 @@
 range2cidr
 ----------
-This script reads IP ranges (P2P plaintext format) from stdin, converts
-them to CIDR nets and outputs them on stdout
+This script reads IP ranges (One range per line or P2P plaintext format) 
+from stdin, converts them to CIDR nets and outputs them on stdout
 
 Example usage:
 	./range2cidr.pl < blocklist.txt
