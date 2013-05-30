@@ -12,4 +12,3 @@ If you want the output in a file:
 Requirements:
 	* Perl
 	* Net::CIDR
-	* List::MoreUtils
